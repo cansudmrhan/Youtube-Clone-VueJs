@@ -24,4 +24,8 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-![alt text](src/assets/8357.png)
+![PAGES](2.png)
+
+![PAGES](3.png)
+
+![PAGES](4.png)
